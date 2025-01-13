@@ -2,7 +2,7 @@
 
 # Poimandres-Ghostty
 
-unofficial [poimandres](https://github.com/z0al/poimandres-alacritty/) theme for [ghostty terminal](https://ghostty.org/)
+unofficial [poimandres](https://github.com/z0al/poimandres-alacritty/) theme for [ghostty terminal](https://ghostty.org/) [storm theme only (for now)]
 
 ## ScreenShot
 
