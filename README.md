@@ -2,19 +2,21 @@
 
 # Poimandres-Ghostty
 
-unofficial [poimandres](https://github.com/z0al/poimandres-alacritty/) theme for [ghostty terminal](https://ghostty.org/) [storm theme only (for now)]
+Unofficial [poimandres](https://github.com/z0al/poimandres-alacritty/) theme for [ghostty terminal](https://ghostty.org/)
 
-## ScreenShot
+## Screenshot
 
 <center>
 
-![screenshot](assets/Screenshot.png)
+![poimandres storm screenshot](assets/poimandres-storm.png)
+
+![poimandres screenshot](assets/poimandres.png)
 
 </center>
 
-## installation
+## Installation
 
-simply copy the content of `config` to `~/.config/ghostty/config`
+Copy the content of either poimandres-storm or poimandres to `~/.config/ghostty/config`.
 
 ## Related
 
