@@ -20,12 +20,12 @@ Run the following command:
 
 ### For `poimandres` (default colorscheme)
 ```bash
-curl -o ~/.config/ghostty/themes https://raw.githubusercontent.com/LucidMach/poimandres-ghostty/refs/heads/master/poimandres
+curl -o ~/.config/ghostty/themes/poimandres https://raw.githubusercontent.com/LucidMach/poimandres-ghostty/refs/heads/master/poimandres
 ```
 
 ### For `poimandres-storm` (colorscheme variation)
 ```bash
-curl -o ~/.config/ghostty/themes https://raw.githubusercontent.com/LucidMach/poimandres-ghostty/refs/heads/master/poimandres-storm
+curl -o ~/.config/ghostty/themes/poimandres-storm https://raw.githubusercontent.com/LucidMach/poimandres-ghostty/refs/heads/master/poimandres-storm
 ```
 
 ## Usage
